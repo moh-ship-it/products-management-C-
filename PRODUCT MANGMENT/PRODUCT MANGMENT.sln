@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35706.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRODUCT MANGMENT", "PRODUCT MANGMENT.csproj", "{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{04F6482B-41CE-4842-8AF6-99A11A2AD122}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2E9117A3-D6EE-407D-BF90-AAE4375ECDF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9725BDB6-AE07-41C1-AE14-72E9D46D6EBF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E9117A3-D6EE-407D-BF90-AAE4375ECDF2} = {04F6482B-41CE-4842-8AF6-99A11A2AD122}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BC27FE-9585-47B2-A0BA-34FEB50F7CF5}
+	EndGlobalSection
+EndGlobal

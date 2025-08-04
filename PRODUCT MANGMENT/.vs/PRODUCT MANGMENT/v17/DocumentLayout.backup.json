@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\productsManagment\\PRODUCT MANGMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|d:\\productsmanagment\\product mangment\\bl\\cls_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:bl\\cls_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|d:\\productsmanagment\\product mangment\\bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|d:\\productsmanagment\\product mangment\\pl\\frm_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|D:\\productsManagment\\PRODUCT MANGMENT\\pl\\frm_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\productsManagment\\PRODUCT MANGMENT\\PL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|D:\\productsManagment\\PRODUCT MANGMENT\\pl\\frm_prouduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_prouduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|D:\\productsManagment\\PRODUCT MANGMENT\\pl\\frm_prouduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_prouduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|D:\\productsManagment\\PRODUCT MANGMENT\\pl\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|D:\\productsManagment\\PRODUCT MANGMENT\\pl\\frm_add_product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEAFC30-7B82-4F8E-AA66-E61AF9C7613C}|PRODUCT MANGMENT.csproj|solutionrelative:pl\\frm_add_product.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLS_CUSTOMER.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\BL\\CLS_CUSTOMER.cs",
+              "RelativeDocumentMoniker": "BL\\CLS_CUSTOMER.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\BL\\CLS_CUSTOMER.cs",
+              "RelativeToolTip": "BL\\CLS_CUSTOMER.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:20:39.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLS_LOGIN.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\BL\\CLS_LOGIN.cs",
+              "RelativeDocumentMoniker": "BL\\CLS_LOGIN.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\BL\\CLS_LOGIN.cs",
+              "RelativeToolTip": "BL\\CLS_LOGIN.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:59:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\Form1.cs",
+              "RelativeDocumentMoniker": "PL\\Form1.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\Form1.cs [Design]",
+              "RelativeToolTip": "PL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:53:05.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FRM_ADD_PRODUCT.Designer.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.Designer.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_ADD_PRODUCT.Designer.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.Designer.cs",
+              "RelativeToolTip": "PL\\FRM_ADD_PRODUCT.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAawGUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:03:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FRM_ADD_PRODUCT.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_ADD_PRODUCT.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.cs",
+              "RelativeToolTip": "PL\\FRM_ADD_PRODUCT.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAawE8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T22:01:14.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FRM_ADD_PRODUCT.cs [Design]",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_ADD_PRODUCT.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_ADD_PRODUCT.cs [Design]",
+              "RelativeToolTip": "PL\\FRM_ADD_PRODUCT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:50:28.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FRM_prouduct.cs [Design]",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_prouduct.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_prouduct.cs",
+              "ToolTip": "D:\\project\\PRODUCT MANGMENT\\PL\\FRM_prouduct.cs [Design]",
+              "RelativeToolTip": "..\\..\\project\\PRODUCT MANGMENT\\PL\\FRM_prouduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:48:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FRM_prouduct.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_prouduct.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_prouduct.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_prouduct.cs",
+              "RelativeToolTip": "PL\\FRM_prouduct.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:44:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FRM_MAIN.cs",
+              "DocumentMoniker": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_MAIN.cs",
+              "RelativeDocumentMoniker": "PL\\FRM_MAIN.cs",
+              "ToolTip": "D:\\productsManagment\\PRODUCT MANGMENT\\PL\\FRM_MAIN.cs",
+              "RelativeToolTip": "PL\\FRM_MAIN.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:37:57.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

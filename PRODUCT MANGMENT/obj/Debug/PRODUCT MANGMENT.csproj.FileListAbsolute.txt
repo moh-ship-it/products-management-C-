@@ -1,0 +1,253 @@
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.AssemblyReference.cache
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_LOGIN.resources
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.Properties.Resources.resources
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.GenerateResource.cache
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe.licenses
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.CoreCompileInputs.cache
+D:\project\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe.config
+D:\project\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe
+D:\project\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.pdb
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT .8AE3BBAB.Up2Date
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.pdb
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_MAIN.resources
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_ADD_PRODUCT.resources
+D:\project\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_prouduct.resources
+D:\project\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_REVIEW.resources
+D:\PRODUCT MANGMENT\bin\Debug\x86\SqlServerSpatial160.dll
+D:\PRODUCT MANGMENT\bin\Debug\x64\SqlServerSpatial160.dll
+D:\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe.config
+D:\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe
+D:\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.pdb
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.Shared.dll
+D:\PRODUCT MANGMENT\bin\Debug\log4net.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PRODUCT MANGMENT\bin\Debug\EnvDTE.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PRODUCT MANGMENT\bin\Debug\stdole.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PRODUCT MANGMENT\bin\Debug\Microsoft.MSXML.dll
+D:\PRODUCT MANGMENT\bin\Debug\log4net.xml
+D:\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_ADD_PRODUCT.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_LOGIN.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_MAIN.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_prouduct.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_REVIEW.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.Properties.Resources.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.GenerateResource.cache
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe.licenses
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.CoreCompileInputs.cache
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.CopyComplete
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.pdb
+D:\PRODUCT MANGMENT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PRODUCT MANGMENT\bin\Debug\ShockwaveFlashObjects.dll
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.RPT1.FRM_RPT_PROUDUCT.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_CATAGORES.resources
+D:\PRODUCT MANGMENT\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\PRODUCT MANGMENT\bin\Debug\RPT1\rpt_all_catgores.cs
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.AssemblyReference.cache
+D:\PRODUCT MANGMENT\bin\Debug\RPT1\rpt_all_catgores.rpt
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.RPT1.Form2.resources
+D:\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_CUSTOMER.resources
+D:\PRODUCT MANGMENT\bin\Debug\Guna.UI2.dll
+D:\PRODUCT MANGMENT\bin\Debug\MaterialSkin.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\x86\SqlServerSpatial160.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\x64\SqlServerSpatial160.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\RPT1\rpt_all_catgores.rpt
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\RPT1\rpt_all_catgores.cs
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe.config
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.exe
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\PRODUCT MANGMENT.pdb
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\CrystalDecisions.Shared.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\log4net.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ShockwaveFlashObjects.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\EnvDTE.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\stdole.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\Microsoft.MSXML.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\log4net.xml
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.AssemblyReference.cache
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe.config
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_ADD_PRODUCT.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_CATAGORES.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_CUSTOMER.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_LOGIN.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_MAIN.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_prouduct.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.PL.FRM_REVIEW.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.Properties.Resources.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.RPT1.Form2.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT_MANGMENT.RPT1.FRM_RPT_PROUDUCT.resources
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.GenerateResource.cache
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe.licenses
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.csproj.CoreCompileInputs.cache
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT .8AE3BBAB.Up2Date
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.exe
+D:\productsManagment\PRODUCT MANGMENT\obj\Debug\PRODUCT MANGMENT.pdb
